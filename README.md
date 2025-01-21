@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an aspiring Machine Learning developer with expertise in Python3 and full stack development. Here's a little bit about me:
 
 ## 🚀 About Me
-- **👀 Interests**: Machine Learning, Full Stack Development
+- **👀 Interests**: Machine Learning, MERN Stack Development
 - **🌱 Currently Learning**: Web frameworks like Next.js to build robust and dynamic web apps
 - **💞️ Looking to Collaborate On**: Web development (both frontend and backend), upscaling as well as training ML models
 - **😄 Pronouns**: He/Him
