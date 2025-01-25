@@ -21,9 +21,9 @@ An intuitive platform to explore and share knowledge about Artificial Intelligen
 - **Tech Stack**: Next.js, PostgreSQL, TailwindCSS
 - **Highlights**: Integrated AI/ML features for smarter user insights.
 
-### [Task Manager App](#)
-A task tracking app designed for productivity and efficiency.
-- **Tech Stack**: React, Node.js, MongoDB
+### [Money Manager App](#)
+A money tracking app designed for efficient use of money.
+- **Tech Stack**: React, Node.js, Postgres
 - **Highlights**: Real-time updates and a seamless user experience.
 
 ---
