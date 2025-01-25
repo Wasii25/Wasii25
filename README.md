@@ -58,9 +58,9 @@ A task tracking app designed for productivity and efficiency.
 
 ## 📊 GitHub Stats
 
-![Wasii's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Wasii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasii25&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasii25&layout=compact&theme=radical)
 
 ---
 
