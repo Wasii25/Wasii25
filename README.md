@@ -1,12 +1,12 @@
 # Hi there, I'm Wasii! 👋
 
-Welcome to my GitHub profile! I'm an **aspiring Machine Learning and Android Native Developer** with a passion for creating impactful projects and solving real-world problems through technology.
+Welcome to my GitHub profile! I'm a full-stack web dev with a passion for creating impactful projects and solving real-world problems through technology.
 
 ---
 
 ## 🚀 About Me
 
-- 🔍 Currently exploring the integration of **AI/ML features** into dynamic web applications using **Next.js** and **Python**.
+- 🔍 Currently exploring the integration of **Java** into dynamic web applications using **Spring** and **Springboot**.
 - 🌱 Continuously learning **DSA**, **Java** to expand my backend skills.
 - 🧠 Passionate about **Data Structures and Algorithms**, and aiming to master **Java and Kotlin** for high-end software development.
 - 🎮 In my downtime, I enjoy solving puzzles, gaming, and guided meditation.
