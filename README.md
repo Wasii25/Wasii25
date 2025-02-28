@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a full-stack web dev with a passion for creati
 
 ## 🤝 Let's Connect!
 
-- 📫 **Email**: wasiullahrafeeq.s@gmail.com@example.com  
+- 📫 **Email**: wasiullahrafeeq.s@gmail.com
 
 ---
 
