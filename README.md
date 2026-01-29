@@ -1,18 +1,55 @@
-# Hi there, I'm Wasii! 👋
+# Hi there, I'm Wasii 👋
 
-Welcome to my GitHub profile! I'm a full-stack web dev with a passion for creating impactful projects and solving real-world problems through technology.
+I'm a **backend-focused software engineer** who enjoys building systems from first principles — understanding *how things work*, not just making them work.
+
+I care deeply about **clean architecture, system design, and fundamentals**.
 
 ---
 
 ## 🚀 About Me
 
-- 🔍 Currently exploring the integration of **Java** into dynamic web applications using **Spring** and **Springboot**.
-- 🌱 Continuously learning **DSA**, **Java** to expand my backend skills.
-- 🧠 Passionate about **Data Structures and Algorithms**, and aiming to master **Java and Kotlin** for high-end software development.
-- 🎮 In my downtime, I enjoy solving puzzles, gaming, and guided meditation.
+- 🧩 Backend-oriented developer with strong focus on **Java**, system design, and concurrency
+- 🏗️ Currently building **networked backend systems** using raw **sockets, threading, and JDBC**
+- 📚 Actively strengthening **Data Structures & Algorithms** alongside real-world backend projects
+- 🧠 Interested in **systems programming**, operating systems, and low-level understanding of software
+- 🔍 Exploring **Spring / Spring Boot** *after* mastering core Java and backend fundamentals
+- 🎯 Long-term goal: become a **strong systems & backend engineer**, not just a framework user
 
 ---
 
+## 🛠️ Tech & Concepts I Work With
+
+- **Languages**: Java, C++ (DSA), learning Rust (systems)
+- **Backend Fundamentals**:
+  - Socket programming
+  - Multithreading & concurrency
+  - Session management
+  - Clean layered architecture
+  - Repository pattern
+- **Persistence**:
+  - SQLite
+  - JDBC (manual, no ORM)
+- **Problem Solving**:
+  - Data Structures & Algorithms
+  - Competitive programming concepts
+
+---
+
+## 📌 Notable Projects
+
+### 🔹 SocketTaskManager
+A multi-client, socket-based task management server built in **pure Java**, featuring:
+- Thread-pooled concurrent client handling
+- Per-client session management
+- Clean separation of concerns
+- SQLite persistence using raw JDBC
+- Database-generated IDs & schema initialization
+
+> Built intentionally without frameworks to deeply understand backend architecture.
+
+(Repo pinned below 👇)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -22,10 +59,10 @@ Welcome to my GitHub profile! I'm a full-stack web dev with a passion for creati
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 - 📫 **Email**: wasiullahrafeeq.s@gmail.com
 
 ---
 
-> *"Learning never exhausts the mind."* – Leonardo da Vinci
+> *“Frameworks come and go. Fundamentals compound.”*
