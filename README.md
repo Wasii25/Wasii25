@@ -7,9 +7,9 @@ Currently building at the intersection of deep learning, NLP, and signals resear
 
 ## Work
 
-**EEG-Music Neural Fingerprinting** · *Active Research*  
-Representing songs as EEG trajectory distributions — latent brain-state signatures captured during listening. Core idea: instead of audio features, use neural response as the fingerprint. Working toward playlist generation via latent brain-state path optimization.  
-`EEG` `Representation Learning` `DEAP` `MAHNOB-HCI`
+**Driver Fatigue Detection** · *Active Research*  
+Detecting driver drowsiness from EEG signals — classifying fatigue states from brain activity recorded during simulated driving. Working toward a robust, real-time detection pipeline using signal processing and deep learning.  
+`EEG` `Signal Processing` `Deep Learning` `BCI`
 
 **NL-to-SQL Local AI Agent** · [Python]  
 A local agent that translates natural language queries into SQL and executes them against a database — no cloud dependency. Built with a focus on prompt reliability and schema-aware query generation.  
