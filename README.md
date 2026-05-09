@@ -1,68 +1,44 @@
-# Hi there, I'm Wasii 👋
+# Wasii
 
-I'm a **backend-focused software engineer** who enjoys building systems from first principles — understanding *how things work*, not just making them work.
-
-I care deeply about **clean architecture, system design, and fundamentals**.
-
----
-
-## 🚀 About Me
-
-- 🧩 Backend-oriented developer with strong focus on **Java**, system design, and concurrency
-- 🏗️ Currently building **networked backend systems** using raw **sockets, threading, and JDBC**
-- 📚 Actively strengthening **Data Structures & Algorithms** alongside real-world backend projects
-- 🧠 Interested in **systems programming**, operating systems, and low-level understanding of software
-- 🔍 Exploring **Spring / Spring Boot** *after* mastering core Java and backend fundamentals
-- 🎯 Long-term goal: become a **strong systems & backend engineer**, not just a framework user
+ML/AI engineer interested in systems that learn, reason, and understand.  
+Currently building at the intersection of deep learning, NLP, and signals research.
 
 ---
 
-## 🛠️ Tech & Concepts I Work With
+## Work
 
-- **Languages**: Java, C++ (DSA), learning Rust (systems)
-- **Backend Fundamentals**:
-  - Socket programming
-  - Multithreading & concurrency
-  - Session management
-  - Clean layered architecture
-  - Repository pattern
-- **Persistence**:
-  - SQLite
-  - JDBC (manual, no ORM)
-- **Problem Solving**:
-  - Data Structures & Algorithms
-  - Competitive programming concepts
+**EEG-Music Neural Fingerprinting** · *Active Research*  
+Representing songs as EEG trajectory distributions — latent brain-state signatures captured during listening. Core idea: instead of audio features, use neural response as the fingerprint. Working toward playlist generation via latent brain-state path optimization.  
+`EEG` `Representation Learning` `DEAP` `MAHNOB-HCI`
+
+**NL-to-SQL Local AI Agent** · [Python]  
+A local agent that translates natural language queries into SQL and executes them against a database — no cloud dependency. Built with a focus on prompt reliability and schema-aware query generation.  
+`LLMs` `NLP` `SQLite` `Python`
+
+**SocketTaskManager** · [Java]  
+Multi-client task management server built from raw sockets up — thread-pooled concurrency, per-client session management, SQLite persistence via JDBC. No frameworks; built to understand the machinery.  
+`Java` `Sockets` `Concurrency` `JDBC`
 
 ---
 
-## 📌 Notable Projects
+## Stack
 
-### 🔹 SocketTaskManager
-A multi-client, socket-based task management server built in **pure Java**, featuring:
-- Thread-pooled concurrent client handling
-- Per-client session management
-- Clean separation of concerns
-- SQLite persistence using raw JDBC
-- Database-generated IDs & schema initialization
-
-> Built intentionally without frameworks to deeply understand backend architecture.
-
-(Repo pinned below 👇)
+**ML/AI** — Python, scikit-learn, TensorFlow, PyTorch (learning), HuggingFace  
+**Systems** — Java, C++, socket programming, multithreading  
+**Data** — SQL, SQLite, pandas, numpy  
 
 ---
 
-## 📊 GitHub Stats
+## Currently
 
-![Wasii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasii25&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasii25&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Connect
-
-- 📫 **Email**: wasiullahrafeeq.s@gmail.com
+- ML/AI internship at **Calfus**
+- Deepening neural networks & deep learning fundamentals
+- Pursuing the EEG-music research direction toward publication
 
 ---
 
-> *“Frameworks come and go. Fundamentals compound.”*
+📫 wasiullahrafeeq.s@gmail.com
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasii25&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=444444&icon_color=000000)
